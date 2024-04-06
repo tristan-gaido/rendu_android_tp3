@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MonApplication</string>
+    <string name="name">Nom</string>
+    <string name="surname">Prénom</string>
+    <string name="birth_date">Date de naissance</string>
+    <string name="phone">Numéro de téléphone</string>
+    <string name="email">Adresse Email</string>
+    <string name="sport">Sport</string>
+    <string name="music">Musique</string>
+    <string name="reading">Lecture</string>
+    <string name="submit">Soumettre</string>
+    <string name="validate">Validez</string>
+</resources>
